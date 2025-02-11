@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9UJvEaIh4g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fuads\\source\\repos\\MASDA Client\\MASDA Client\\MASDA Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fuads\\.nuget\\packages\\easytabs\\2.0.0\\easytabs.2.0.0.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.1\\microsoft.aspnetcore.connections.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\9.0.1\\microsoft.aspnetcore.http.connections.client.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\9.0.1\\microsoft.aspnetcore.http.connections.common.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.1\\microsoft.aspnetcore.signalr.client.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\9.0.1\\microsoft.aspnetcore.signalr.client.core.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\9.0.1\\microsoft.aspnetcore.signalr.common.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\9.0.1\\microsoft.aspnetcore.signalr.protocols.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.1\\microsoft.bcl.asyncinterfaces.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.bcl.timeprovider\\9.0.1\\microsoft.bcl.timeprovider.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.features\\9.0.1\\microsoft.extensions.features.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.logging\\9.0.1\\microsoft.extensions.logging.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\svg\\2.4.3\\svg.2.4.3.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.1\\system.diagnostics.diagnosticsource.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\system.net.serversentevents\\9.0.1\\system.net.serversentevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\system.threading.channels\\9.0.1\\system.threading.channels.9.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\win32interop.dwmapi\\1.0.1\\win32interop.dwmapi.1.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\win32interop.gdi32\\1.0.1\\win32interop.gdi32.1.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\win32interop.kernel32\\1.0.1\\win32interop.kernel32.1.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\win32interop.user32\\1.0.1\\win32interop.user32.1.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\win32interop.uxtheme\\1.0.1\\win32interop.uxtheme.1.0.1.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.12\\microsoft.netcore.app.runtime.win-x64.8.0.12.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.12.nupkg.sha512",
+    "C:\\Users\\fuads\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.12\\microsoft.aspnetcore.app.runtime.win-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EasyTabs 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EasyTabs",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Svg 2.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Svg",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Win32Interop.Dwmapi 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Win32Interop.Dwmapi",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Win32Interop.Gdi32 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Win32Interop.Gdi32",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Win32Interop.Kernel32 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Win32Interop.Kernel32",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Win32Interop.User32 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Win32Interop.User32",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Win32Interop.Uxtheme 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Win32Interop.Uxtheme",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

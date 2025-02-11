@@ -1,0 +1,52 @@
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\MASDA Client.exe
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\MASDA Client.deps.json
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\MASDA Client.runtimeconfig.json
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\MASDA Client.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\MASDA Client.pdb
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\EasyTabs.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Svg.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Win32Interop.Dwmapi.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Win32Interop.Gdi32.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Win32Interop.Kernel32.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Win32Interop.User32.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\Win32Interop.Uxtheme.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.csproj.AssemblyReference.cache
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA_Client.ClientWindow.resources
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA_Client.OrderbookForm.resources
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA_Client.Properties.Resources.resources
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.csproj.GenerateResource.cache
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.AssemblyInfoInputs.cache
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.AssemblyInfo.cs
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.csproj.CoreCompileInputs.cache
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Cl.EA9C161C.Up2Date
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\refint\MASDA Client.dll
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.pdb
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\MASDA Client.genruntimeconfig.cache
+C:\Users\fuads\source\repos\MASDA Client\MASDA Client\obj\Debug\net8.0-windows\ref\MASDA Client.dll
