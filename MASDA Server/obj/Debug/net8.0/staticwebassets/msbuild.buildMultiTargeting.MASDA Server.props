@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MASDA Server.props" />
+</Project>

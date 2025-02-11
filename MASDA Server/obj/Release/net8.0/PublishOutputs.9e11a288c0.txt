@@ -1,0 +1,7 @@
+C:\Users\fuads\source\repos\MASDA Server\publish\MASDA Server.exe
+C:\Users\fuads\source\repos\MASDA Server\publish\appsettings.Development.json
+C:\Users\fuads\source\repos\MASDA Server\publish\appsettings.json
+C:\Users\fuads\source\repos\MASDA Server\publish\MASDA Server.dll
+C:\Users\fuads\source\repos\MASDA Server\publish\MASDA Server.deps.json
+C:\Users\fuads\source\repos\MASDA Server\publish\MASDA Server.runtimeconfig.json
+C:\Users\fuads\source\repos\MASDA Server\publish\MASDA Server.pdb

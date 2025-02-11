@@ -1,0 +1,29 @@
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\appsettings.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\MASDA Server.staticwebassets.endpoints.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\MASDA Server.exe
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\MASDA Server.deps.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\MASDA Server.runtimeconfig.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\MASDA Server.dll
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\bin\Debug\net8.0\MASDA Server.pdb
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.AssemblyInfoInputs.cache
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.AssemblyInfo.cs
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.csproj.CoreCompileInputs.cache
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\scopedcss\bundle\MASDA Server.styles.css
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets\msbuild.MASDA Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets\msbuild.MASDA Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets\msbuild.build.MASDA Server.props
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MASDA Server.props
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MASDA Server.props
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.dll
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\refint\MASDA Server.dll
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.pdb
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\MASDA Server.genruntimeconfig.cache
+C:\Users\fuads\source\repos\MASDA Server\MASDA Server\obj\Debug\net8.0\ref\MASDA Server.dll
